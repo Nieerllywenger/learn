@@ -13,3 +13,4 @@ int main( )
     cout << setfill('0') << setw(2) << hex << uppercase << (int)((unsigned char*)p)[i] ;
     cout << endl;
 }
+//
