@@ -11,5 +11,6 @@ int main( )
     cout << "byte sequence(long double) = 0x" ;
     for (int i=15;i>=0;i--)
     cout << setfill('0') << setw(2) << hex << uppercase << (int)((unsigned char*)p)[i] ;
+    dog
 }
     //
